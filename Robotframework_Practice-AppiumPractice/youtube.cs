@@ -47,10 +47,6 @@ namespace appiumclient
 
             driver.Quit();
 
-
-
-
-
         }
     }
 }

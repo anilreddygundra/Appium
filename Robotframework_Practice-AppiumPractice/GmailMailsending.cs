@@ -88,12 +88,6 @@ namespace appiumclient
 
             driver.Close();
 
-
-
-
-
-
-
         }
     }
 

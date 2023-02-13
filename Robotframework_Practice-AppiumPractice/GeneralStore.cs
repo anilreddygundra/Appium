@@ -5,7 +5,6 @@ using OpenQA.Selenium.Appium.Android;
 using OpenQA.Selenium.Appium.Enums;
 using OpenQA.Selenium.Remote;
 
-
 namespace appiumclient
 {
     public class GeneralStores

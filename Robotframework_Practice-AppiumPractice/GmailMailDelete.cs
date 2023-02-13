@@ -64,5 +64,6 @@ namespace appiumclient
 
 }
 
+
 //Screenshot screenshot = ((ITakesScreenshot)driver).GetScreenshot();
 //screenshot.SaveAsFile("screenshot.png", ScreenshotImageFormat.Png);
